@@ -1,0 +1,11 @@
+body{
+    background-color: beige;
+}
+.button{
+    width: 162px;
+    height: 40px;
+}
+.content{
+    max-width: 500px;
+    margin: auto;
+}
